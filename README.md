@@ -1,4 +1,4 @@
-# qa-has-power-automation
+# BDD
 
 ## What is needed:
 ### Virtual environment configuration - recommended option
